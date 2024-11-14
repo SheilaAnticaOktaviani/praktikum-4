@@ -10,7 +10,8 @@ Kelas : TI,24, A.1
 # input dan outpu dari Praktikum 4
 ## input
 
-<img src="Input.png">
+![carbon (1)](https://github.com/user-attachments/assets/54a71857-6ba2-4fe8-aada-6dadffc12b02)
+
 
 ## output
 
